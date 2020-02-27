@@ -1,13 +1,12 @@
 # practicaSOS2
 
-Repositorio de github de la practica del 27-02-2020
-
-wheeeeze
+Repositorio de github de las practicas
 
 ## subtitulo
 lista de gzee
  - aaaaa
  - jejejejje
+ 
 codigo de ejemplo:
 ```
 console.log("tonto")
@@ -20,3 +19,6 @@ para commit:
   
 push:
   git push -u origin master
+  
+Para cambiar de rama:
+  git checkout -b lab4

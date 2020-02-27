@@ -1,0 +1,35 @@
+    1  cd /workspace/PracticaSOS2; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/PracticaSOS2; clear
+    4  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    5  cd /workspace/PracticaSOS2; clear
+    6  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    7  cd /workspace/PracticaSOS2; clear
+    8  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    9  cd /workspace/PracticaSOS2; clear
+   10  ls
+   11  npm init
+   12  touch index.js
+   13  node index.js 
+   14  touch index.js
+   15  node index.js 
+   16  npm start
+   17  npm install cool-ascii-faces
+   18  npm install cool-ascii-faces --save
+   19  npm start
+   20  clear
+   21  npm start
+   22  cool-face [-a | --all]
+   23  npm start
+   24  touch .gitignore
+   25  git add .
+   26  npm start
+   27  git commit -m "create gitignore"
+   28  git push
+   29  git push -u origin master
+   30  git pull
+   31  git push -u origin master
+   32  npm install express --save
+   33  npm start
+   34  history
+   35  history > history.txt

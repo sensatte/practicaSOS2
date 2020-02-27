@@ -20,5 +20,6 @@ para commit:
 push:
   git push -u origin master
   
-Para cambiar de rama:
+Para crear rama:
   git checkout -b lab4
+  si no quiero crear quito la -b
